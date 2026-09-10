@@ -28,19 +28,19 @@
         <Key android:codes="3478" android:keyLabel="ඖ" />
     </Row>
     <Row>
-        <Key android:codes="3530" android:keyLabel="්" />
-        <Key android:codes="3535" android:keyLabel="ා" />
-        <Key android:codes="3536" android:keyLabel="ැ" />
-        <Key android:codes="3537" android:keyLabel="ෑ" />
-        <Key android:codes="3538" android:keyLabel="ි" />
-        <Key android:codes="3539" android:keyLabel="ී" />
-        <Key android:codes="3540" android:keyLabel="ු" />
-        <Key android:codes="3542" android:keyLabel="ූ" />
-        <Key android:codes="3544" android:keyLabel="ෘ" />
+        <Key android:codes="3486" android:keyLabel="ඞ" />
+        <Key android:codes="3487" android:keyLabel="ඟ" />
+        <Key android:codes="3491" android:keyLabel="ඣ" />
+        <Key android:codes="3492" android:keyLabel="ඤ" />
+        <Key android:codes="3493" android:keyLabel="ඥ" />
+        <Key android:codes="3494" android:keyLabel="ඦ" />
+        <Key android:codes="3500" android:keyLabel="ඬ" />
+        <Key android:codes="3506" android:keyLabel="ඳ" />
+        <Key android:codes="3513" android:keyLabel="ඹ" />
     </Row>
     <Row>
-        <Key android:codes="3545" android:keyLabel="ෙ" />
-        <Key android:codes="3546" android:keyLabel="ේ" />
+        <Key android:codes="3537" android:keyLabel="ෑ" />
+        <Key android:codes="3544" android:keyLabel="ෘ" />
         <Key android:codes="3547" android:keyLabel="ෛ" />
         <Key android:codes="3548" android:keyLabel="ො" />
         <Key android:codes="3549" android:keyLabel="ෝ" />
